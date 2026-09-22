@@ -4,7 +4,7 @@ Senior Consultant at [Thoughtworks](https://www.thoughtworks.com/) in Singapore.
 
 ## How I work with AI
 
-I mostly work by directing coding agents (Codex, Claude Code) rather than writing code by hand: I set the requirements and acceptance criteria, make the product decisions and check the result in use. Much of the code in the repositories below was produced that way, so commit history here reflects agent-assisted work, not hand-written line counts.
+I mostly work by directing coding agents (Codex, Claude Code) rather than writing code by hand: I set the requirements and acceptance criteria, make the product decisions and check the result in use.
 
 ## Selected projects
 
