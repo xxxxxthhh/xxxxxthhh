@@ -22,7 +22,7 @@ A pronunciation-practice app I use regularly (Azure Speech pronunciation assessm
 ## Also in this account
 
 - Interactive self-study handbooks written in Chinese (system design, probability, options, AI systems and more), indexed at [xxxxxthhh.github.io](https://xxxxxthhh.github.io/).
-- Training exercises and forks from the 2020 Thoughtworks graduate programme, left in place as history.
+- Training exercises from the 2020 Thoughtworks graduate programme and older learning forks, left in place as history.
 
 ## Elsewhere
 
