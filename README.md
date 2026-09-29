@@ -14,6 +14,7 @@ I mostly work by directing coding agents (Codex, Claude Code) rather than writin
 | [rmclient](https://github.com/xxxxxthhh/rmclient) | Local web UI and CLI for a self-hosted reMarkable cloud: push books, manage the document tree, preview notebooks. Includes an offline demo that needs no server. |
 | [agent-office](https://github.com/xxxxxthhh/agent-office) | Local-first orchestration for Codex, Claude Code and other command-line agents: shared tasks, DAG workflows, review and rework loops, isolated writes. |
 | [swingMomentum](https://github.com/xxxxxthhh/swingMomentum) | A trading-strategy research project, closed when long-horizon backtests did not show an advantage over a broad-market index, and kept as an engineering lab for a Builder / Reviewer agent loop with ADRs and audit trails. |
+| [PocketAgentRemote](https://github.com/xxxxxthhh/PocketAgentRemote) | macOS menu-bar app that turns a six-button retro controller into a remote for the Codex and Claude desktop apps: per-app key profiles, a command menu, an app switcher and hold-to-dictate. Its intro video is rendered entirely from code. |
 | [voicetyper](https://github.com/xxxxxthhh/voicetyper) | macOS menu-bar dictation with Whisper transcription, bilingual voice commands and local history. |
 | [disciplined-engineering](https://github.com/xxxxxthhh/disciplined-engineering) | A Codex skill for bounded delegation: one accountable root agent, delegation only when it materially helps. |
 
